@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Hafiz Muhammad Bilal Iqbal 👋
 
-<!--
-**Bilaliqbal3/Bilaliqbal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Web Developer | Junior Frontend Developer **
 
-Here are some ideas to get you started:
+👩🏻‍💻Software Engineer and web developer sharing about my journey and learnings in tech 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Studied [Computer Science] National College of Business Administration and Economics
+
+💼 FrontEnd Developer at Maxcore Technologies
+
+🛠️Currently working on Ecommerce Project
+
+🌱 Currently Learning about MERN Stack
