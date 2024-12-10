@@ -2,7 +2,7 @@
 👩🏻‍💻Software Engineer | Web Developer | Junior Frontend Developer<br/>
 👩🏻‍💻Software Engineer and web developer sharing about my journey and learnings in tech<br/>
 🎓Studied [Computer Science] National College of Business Administration and Economics<br/>
-💼FrontEnd Developer at Maxcore Technologies<br/>
+💼Web Developer at Maxcore Technologies<br/>
 🛠️Currently working on Ecommerce Project<br/>
 🌱Currently Learning about MERN Stack<br/>
 
